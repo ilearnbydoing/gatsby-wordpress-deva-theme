@@ -2,7 +2,7 @@
 
 A Gatsby theme plugin for creating blogs from headless WordPress CMS.
 
-The theme is a inspired and customized from [Draftbox Gatbsy Balsa Theme](https://github.com/draftbox-co/gatsby-wordpress-balsa-theme). Thanks to Draftbox team.
+The theme is inspired and customized from [Draftbox Gatbsy Balsa Theme](https://github.com/draftbox-co/gatsby-wordpress-balsa-theme). Thanks to Draftbox team.
 
 Turn your WordPress blog into a lightning fast static website. This Gatsby theme is a frontend replacement of the WordPress engine featuring the standard Deva theme skin and functionality. All content is sourced from a headless WordPress CMS.
 
