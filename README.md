@@ -1,5 +1,3 @@
-[![Draftbox](https://res.cloudinary.com/thinkcdnimages/image/upload/v1589291053/Draftbox/draftbox-for-github.svg)](https://draftbox.co)
-
 # gatsby-wordpress-deva-theme
 
 A Gatsby theme plugin for creating blogs from headless WordPress CMS.
